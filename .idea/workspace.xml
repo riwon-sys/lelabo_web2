@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83cec0af-f0cd-4584-8ac8-5c88aa2bb7b0" name="변경" comment="복기 | rw 25-04-05">
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/class04/AppStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/class04/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/class04/model/dto/StudentDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/class04/model/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/class04/service/StudentService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lelabo_web2" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;riwon-sys&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/riwon-sys/lelabo_web2.git&quot;,
+    &quot;accountId&quot;: &quot;222ca6e2-3b97-4bca-a0b9-58d113d54f5d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2vAJQqC0eZwaNEFAWaeNqQVGxHB" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.lelabo_web2 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AppStart (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AppStart (2).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AppStart (3).executor&quot;: &quot;Run&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TJ-BU-702-P24\IdeaProjects\lelabo_web2\src\main\resources\mybatis\mapper" />
+      <recent name="C:\Users\TJ-BU-702-P24\IdeaProjects\lelabo_web2\src\main\java\example\class03\_3mvc2_mybatis" />
+      <recent name="C:\Users\TJ-BU-702-P24\IdeaProjects\lelabo_web2\src\main\java\example\class03\_mvc2_3tire" />
+      <recent name="C:\Users\TJ-BU-702-P24\IdeaProjects\lelabo_web2\src\main\java\example\class03\_mvc2_3tire\service" />
+      <recent name="C:\Users\TJ-BU-702-P24\IdeaProjects\lelabo_web2\src\main\java\example\class03\_mvc2_3tire\model\repository" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="hiddenConfigurations">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <set>
+              <option value="AppStart" />
+              <option value="AppStart (3)" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AppStart (1)">
+    <configuration name="AppStart (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lelabo_web2.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="example.class04.AppStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppStart (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lelabo_web2.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="example.class03._3mvc2_mybatis.AppStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.class03._3mvc2_mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lelabo_web2.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="example.class03._2mvc2_3tire.AppStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.class03._2mvc2_3tire.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AppStart (1)" />
+        <item itemvalue="Spring Boot.AppStart (3)" />
+        <item itemvalue="Spring Boot.AppStart (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="83cec0af-f0cd-4584-8ac8-5c88aa2bb7b0" name="변경" comment="" />
+      <created>1743581933226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743581933226</updated>
+      <workItem from="1743581934180" duration="2048000" />
+      <workItem from="1743640844345" duration="25000" />
+      <workItem from="1743823414754" duration="9778000" />
+      <workItem from="1743836353376" duration="2545000" />
+      <workItem from="1744182799962" duration="6448000" />
+    </task>
+    <task id="LOCAL-00001" summary="복기 | rw 25-04-05">
+      <option name="closed" value="true" />
+      <created>1743838858652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743838858652</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="복기 | rw 25-04-05" />
+    <option name="LAST_COMMIT_MESSAGE" value="복기 | rw 25-04-05" />
+  </component>
+</project>
